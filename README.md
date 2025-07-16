@@ -11,4 +11,3 @@ This is a *basic console-based Student Course Registration System* built with:
 
 ---
 
-## 📁 Project Structure
